@@ -6,6 +6,7 @@
 
 - [October 21 post-incident analysis](https://blog.github.com/2018-10-30-oct21-post-incident-analysis/) by [Github](https://github.com/about)
 - [340만 동접자 이후 서비스 다운 관련 사후 분석 내용](https://www.epicgames.com/fortnite/ko/news/postmortem-of-service-outage-at-3-4m-ccu) by [Epic Games](https://www.epicgames.com/), [FORTNITE](https://www.epicgames.com/fortnite/)
+- [Summary of the Amazon EC2 DNS Resolution Issues in the Asia Pacific (Seoul) Region (AP-NORTHEAST-2)](https://aws.amazon.com/ko/message/74876/) by [AWS](https://aws.amazon.com/)
 
 
 ## License
