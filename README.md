@@ -3,6 +3,7 @@
 
 
 ## Contents
+- 2021-06-08: [Summary of June 8 outage](https://www.fastly.com/blog/summary-of-june-8-outage) by [Fastly](https://www.fastly.com/)
 - 2020-05-12: [A Terrible, Horrible, No-Good, Very Bad Day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82) by [Slack](https://slack.com/)
 - 2019-07-02: [Cloudflare outage caused by bad software deploy](https://blog.cloudflare.com/cloudflare-outage/) by [Cloudflare](https://www.cloudflare.com/)
 - 2018-11-22: [Summary of the Amazon EC2 DNS Resolution Issues in the Asia Pacific (Seoul) Region (AP-NORTHEAST-2)](https://aws.amazon.com/ko/message/74876/) by [AWS](https://aws.amazon.com/)
